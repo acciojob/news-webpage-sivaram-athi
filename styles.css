@@ -33,6 +33,7 @@ img{
 .latest-news-section {
 	background-color: #ffffff;
 	border-radius: 10px;
+	height:150px;
 	padding: 10px;
 	text-align: center;
 }
@@ -41,5 +42,6 @@ img{
 	background-color: #ffffff;
 	border-radius: 10px;
 	padding: 10px;
+	height:200px;
 	text-align: center;
 }
