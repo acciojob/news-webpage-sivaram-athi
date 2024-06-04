@@ -12,6 +12,7 @@ body {
 .header {
 	background-color: #011e29;
 	text-align: center;
+	align-items:center;
 	color: white;
 	padding: 15px;
 }
